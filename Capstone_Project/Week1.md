@@ -10,6 +10,8 @@ As the London Borough of Croydon has an extensive shopping district and night-ti
 
 A map can be created to show what kinds of restaurants are popular in the areas within Croydon. Depending on our analysis we can determine the restaurant type and style of service that would be best suited for each area.  
 
+In summary this analysis is targeted towards current and prospective restaurant owners within Croydon and is aimed at helping them determine what restaurant type would thrive in areas in Croydon.
+
 
 
 ## A.2. Data Description
